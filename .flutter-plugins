@@ -1,0 +1,26 @@
+# This is a generated file; do not edit or check into version control.
+cloud_firestore=/home/shalmesh/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-2.4.0/
+cloud_firestore_web=/home/shalmesh/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore_web-2.3.0/
+firebase_auth=/home/shalmesh/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-3.0.1/
+firebase_auth_web=/home/shalmesh/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth_web-3.0.0/
+firebase_core=/home/shalmesh/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-1.4.0/
+firebase_core_web=/home/shalmesh/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-1.1.0/
+flutter_plugin_android_lifecycle=/home/shalmesh/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-2.0.2/
+fluttertoast=/home/shalmesh/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/fluttertoast-8.0.7/
+geocoding=/home/shalmesh/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/geocoding-2.0.0/
+geolocator=/home/shalmesh/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-7.3.1/
+geolocator_web=/home/shalmesh/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator_web-2.0.4/
+google_maps_flutter=/home/shalmesh/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/google_maps_flutter-2.0.6/
+google_mobile_ads=/home/shalmesh/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/google_mobile_ads-0.13.2/
+google_sign_in=/home/shalmesh/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in-5.0.5/
+google_sign_in_web=/home/shalmesh/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in_web-0.10.0/
+hexcolor=/home/shalmesh/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/hexcolor-2.0.4/
+location=/home/shalmesh/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/location-4.3.0/
+location_web=/home/shalmesh/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/location_web-3.1.1/
+path_provider_linux=/home/shalmesh/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_linux-2.0.0/
+path_provider_windows=/home/shalmesh/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_windows-2.0.1/
+shared_preferences=/home/shalmesh/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-2.0.6/
+shared_preferences_linux=/home/shalmesh/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_linux-2.0.0/
+shared_preferences_macos=/home/shalmesh/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_macos-2.0.0/
+shared_preferences_web=/home/shalmesh/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_web-2.0.0/
+shared_preferences_windows=/home/shalmesh/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_windows-2.0.0/
