@@ -1,0 +1,113 @@
+{
+  "project_info": {
+    "project_number": "8965263070",
+    "project_id": "pantophobi",
+    "storage_bucket": "pantophobi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8965263070:android:697f51344f43e12824bc4f",
+        "android_client_info": {
+          "package_name": "com.example.pantophobi_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8965263070-a8ibiq0ulcq772slob6vstasjagmpfa7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pantophobi_flutter",
+            "certificate_hash": "6590e9daa2aa333584d9679a1069fae9244e2d1b"
+          }
+        },
+        {
+          "client_id": "8965263070-rhbuq0bl11eg9hsjjsjpbi1n5id05eha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsBNzwEn0kPH3HPlC3lEGdYT5SdLxbKHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8965263070-aoqr4kdpa6ctg6j39po5d1onipm8fp6e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8965263070:android:4813362ddcb8ef5b24bc4f",
+        "android_client_info": {
+          "package_name": "com.pantophobi.pantophobi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8965263070-qgmr6u6ta5ilrj123vd8rqd0cim6v3lv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pantophobi.pantophobi",
+            "certificate_hash": "6590e9daa2aa333584d9679a1069fae9244e2d1b"
+          }
+        },
+        {
+          "client_id": "8965263070-rhbuq0bl11eg9hsjjsjpbi1n5id05eha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsBNzwEn0kPH3HPlC3lEGdYT5SdLxbKHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8965263070-aoqr4kdpa6ctg6j39po5d1onipm8fp6e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8965263070:android:77f99cd0c57cbf9f24bc4f",
+        "android_client_info": {
+          "package_name": "in.co.zoof.pantophobi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8965263070-rhbuq0bl11eg9hsjjsjpbi1n5id05eha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsBNzwEn0kPH3HPlC3lEGdYT5SdLxbKHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8965263070-aoqr4kdpa6ctg6j39po5d1onipm8fp6e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

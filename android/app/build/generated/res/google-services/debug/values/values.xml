@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">8965263070-rhbuq0bl11eg9hsjjsjpbi1n5id05eha.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">8965263070</string>
+    <string name="google_api_key" translatable="false">AIzaSyCsBNzwEn0kPH3HPlC3lEGdYT5SdLxbKHs</string>
+    <string name="google_app_id" translatable="false">1:8965263070:android:697f51344f43e12824bc4f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCsBNzwEn0kPH3HPlC3lEGdYT5SdLxbKHs</string>
+    <string name="google_storage_bucket" translatable="false">pantophobi.appspot.com</string>
+    <string name="project_id" translatable="false">pantophobi</string>
+</resources>
